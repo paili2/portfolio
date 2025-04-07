@@ -18,7 +18,7 @@ const Hero = () => {
           style={{
             fontWeight: "bold",
             fontSize: "50px",
-            borderBottom: "5px solid #00adb4",
+            borderBottom: "5px solid rgb(96, 181, 255)",
             width: "fit-content",
           }}
         >
@@ -53,6 +53,8 @@ const Hero = () => {
               fontSize: "35px",
               fontWeight: "bold",
               textAlign: "center ",
+              color: "rgb(96, 181, 255)",
+              textShadow: "3px 3px 1px rgb(0, 136, 255)",
             }}
           >
             "백엔드 개발자로서, 문제 해결과 성취감을 중요하게 생각합니다!"
@@ -63,7 +65,6 @@ const Hero = () => {
               fontWeight: "bold",
               lineHeight: "1.5",
               textAlign: "center",
-              color: "rgb(0, 173, 180)",
             }}
           >
             데이터 분석과 마케팅 자격증을 보유한 백엔드 개발자 지망생입니다.
