@@ -24,7 +24,7 @@ const LicenseEducation = () => {
           style={{
             fontSize: "50px",
             fontWeight: "bold",
-            borderBottom: "5px solid #00adb4",
+            borderBottom: "5px solid rgb(96, 181, 255)",
             width: "fit-content",
           }}
         >

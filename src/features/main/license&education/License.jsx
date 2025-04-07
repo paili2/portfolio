@@ -9,7 +9,7 @@ const License = () => {
         style={{
           fontWeight: "bold",
           fontSize: "35px",
-          backgroundColor: "rgb(0, 173, 180)",
+          backgroundColor: "rgb(96, 181, 255)",
           display: "inline",
           width: "fit-content",
         }}

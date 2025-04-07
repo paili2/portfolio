@@ -9,7 +9,7 @@ const InnerCard = () => {
         flexDirection: "column",
         gap: "70px",
         borderRadius: "20px",
-        border: "3px solid rgb(0, 173, 180)",
+        border: "3px solid rgb(96, 181, 255)",
         padding: "40px 30px",
       }}
     >

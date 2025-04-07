@@ -5,7 +5,7 @@ import Skils from "./skils/Skils";
 
 const Main = () => {
   return (
-    <div style={{ padding: "100px 0" }}>
+    <div style={{ padding: "100px 0", backgroundColor: "beige" }}>
       <Hero></Hero>
       <Skils></Skils>
       <LicenseEducation></LicenseEducation>
