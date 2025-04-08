@@ -62,6 +62,18 @@ const Skils = () => {
                         }
                     ></SkilCard>
                     <SkilCard
+                        skilName={"Java"}
+                        src={"java.png"}
+                        explanation={""}
+                    ></SkilCard>
+                    <SkilCard
+                        justify={"end"}
+                        skilName={"Spring Boot"}
+                        src={"springboot.png"}
+                        explanation={""}
+                    ></SkilCard>
+
+                    <SkilCard
                         skilName={"GIT"}
                         src={"git.png"}
                         explanation={
