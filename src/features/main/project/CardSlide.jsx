@@ -62,7 +62,7 @@ const CardSlide = () => {
         skil2={<SkilTag skil={"CSS"} bg={"rgb(192, 214, 255)"} />}
         skil3={<SkilTag skil={"Javascript"} bg={"rgb(195, 255, 192)"} />}
         skil4={<SkilTag skil={"React"} bg={"rgb(255, 240, 192)"} />}
-        link={""}
+        link={"https://paili2.github.io/musinsa-clone/"}
       ></ProjectCard>
       {/* <button className={styles.slide_btn}>
           <FaArrowRight />
