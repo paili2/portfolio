@@ -34,7 +34,7 @@ const CardSlide = () => {
         skil1={<SkilTag skil={"HTML"} bg={"rgb(255, 192, 193)"} />}
         skil2={<SkilTag skil={"CSS"} bg={"rgb(192, 214, 255)"} />}
         skil3={<SkilTag skil={"Javascript"} bg={"rgb(195, 255, 192)"} />}
-        link={""}
+        link={"https://paili2.github.io/socar/"}
       ></ProjectCard>
       <ProjectCard
         img={"ticketlink.png"}
@@ -48,7 +48,7 @@ const CardSlide = () => {
         skil2={<SkilTag skil={"CSS"} bg={"rgb(192, 214, 255)"} />}
         skil3={<SkilTag skil={"Javascript"} bg={"rgb(195, 255, 192)"} />}
         skil4={<SkilTag skil={"React"} bg={"rgb(255, 240, 192)"} />}
-        link={""}
+        link={"https://paili2.github.io/ticketLink-clone/"}
       ></ProjectCard>
       <ProjectCard
         img={"musinsa.jpeg"}
